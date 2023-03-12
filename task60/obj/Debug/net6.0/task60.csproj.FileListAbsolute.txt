@@ -1,0 +1,15 @@
+D:\Разработчик. GeekBrains\3. Знакомство с языками программирования\Семинар 8\Sem8\task60\bin\Debug\net6.0\task60.exe
+D:\Разработчик. GeekBrains\3. Знакомство с языками программирования\Семинар 8\Sem8\task60\bin\Debug\net6.0\task60.deps.json
+D:\Разработчик. GeekBrains\3. Знакомство с языками программирования\Семинар 8\Sem8\task60\bin\Debug\net6.0\task60.runtimeconfig.json
+D:\Разработчик. GeekBrains\3. Знакомство с языками программирования\Семинар 8\Sem8\task60\bin\Debug\net6.0\task60.dll
+D:\Разработчик. GeekBrains\3. Знакомство с языками программирования\Семинар 8\Sem8\task60\bin\Debug\net6.0\task60.pdb
+D:\Разработчик. GeekBrains\3. Знакомство с языками программирования\Семинар 8\Sem8\task60\obj\Debug\net6.0\task60.csproj.AssemblyReference.cache
+D:\Разработчик. GeekBrains\3. Знакомство с языками программирования\Семинар 8\Sem8\task60\obj\Debug\net6.0\task60.GeneratedMSBuildEditorConfig.editorconfig
+D:\Разработчик. GeekBrains\3. Знакомство с языками программирования\Семинар 8\Sem8\task60\obj\Debug\net6.0\task60.AssemblyInfoInputs.cache
+D:\Разработчик. GeekBrains\3. Знакомство с языками программирования\Семинар 8\Sem8\task60\obj\Debug\net6.0\task60.AssemblyInfo.cs
+D:\Разработчик. GeekBrains\3. Знакомство с языками программирования\Семинар 8\Sem8\task60\obj\Debug\net6.0\task60.csproj.CoreCompileInputs.cache
+D:\Разработчик. GeekBrains\3. Знакомство с языками программирования\Семинар 8\Sem8\task60\obj\Debug\net6.0\task60.dll
+D:\Разработчик. GeekBrains\3. Знакомство с языками программирования\Семинар 8\Sem8\task60\obj\Debug\net6.0\refint\task60.dll
+D:\Разработчик. GeekBrains\3. Знакомство с языками программирования\Семинар 8\Sem8\task60\obj\Debug\net6.0\task60.pdb
+D:\Разработчик. GeekBrains\3. Знакомство с языками программирования\Семинар 8\Sem8\task60\obj\Debug\net6.0\task60.genruntimeconfig.cache
+D:\Разработчик. GeekBrains\3. Знакомство с языками программирования\Семинар 8\Sem8\task60\obj\Debug\net6.0\ref\task60.dll
